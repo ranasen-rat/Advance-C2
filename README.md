@@ -14,7 +14,7 @@ Absolutely. Here is a **GitHub README.md** version for a **paid/private C2 proje
 A preview of the C2 operator interface is shown below.
 
 <p align="center">
-  <img src="docs/c2-dashboard.png" alt="Advanced C2 Framework Dashboard" width="100%">
+  <img src="Screenshot_2026-08-11_12_28_02.png" alt="Advanced C2 Framework Dashboard" width="100%">
 </p>
 
 <p align="center">
