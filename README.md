@@ -7,6 +7,24 @@ Absolutely. Here is a **GitHub README.md** version for a **paid/private C2 proje
   <em>Red Team • Threat Research • Security Engineering</em>
 </p>
 
+---
+
+# 🖥️ Web Operator Dashboard
+
+A preview of the C2 operator interface is shown below.
+
+<p align="center">
+  <img src="docs/c2-dashboard.png" alt="Advanced C2 Framework Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <em>Advanced C2 Web Operator Dashboard</em>
+</p>
+
+> **Note:** The screenshot is a demonstration of the interface. No credentials, authentication tokens, private infrastructure information, or sensitive operational data are included.
+
+---
+
 <p align="center">
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
