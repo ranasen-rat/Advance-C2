@@ -101,7 +101,7 @@ The project explores the complete C2 communication lifecycle:
 │ System Interaction   │
 │ File Operations      │
 └──────────────────────┘
----
+
 
 # 🚀 Key Features
 
