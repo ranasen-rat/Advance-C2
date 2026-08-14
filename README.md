@@ -1,4 +1,3 @@
-```markdown
 # Advanced C2 Framework
 
 <p align="center">
@@ -71,7 +70,7 @@ The **Advanced C2 Framework** is a lightweight Command & Control platform primar
 
 The project explores the complete C2 communication lifecycle:
 
-```text
+
 ┌──────────────┐
 │   Operator   │
 └──────┬───────┘
