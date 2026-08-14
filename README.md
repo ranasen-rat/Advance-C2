@@ -62,7 +62,7 @@ This public project information does **not** contain:
 
 Never commit credentials or sensitive deployment information to GitHub.
 
----
+
 
 # 🔬 Project Overview
 
@@ -70,7 +70,7 @@ The **Advanced C2 Framework** is a lightweight Command & Control platform primar
 
 The project explores the complete C2 communication lifecycle:
 
-
+```text
 ┌──────────────┐
 │   Operator   │
 └──────┬───────┘
@@ -101,8 +101,6 @@ The project explores the complete C2 communication lifecycle:
 │ System Interaction   │
 │ File Operations      │
 └──────────────────────┘
-```
-
 ---
 
 # 🚀 Key Features
