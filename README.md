@@ -1,13 +1,3 @@
-I've updated the README to add a **video PoC (Proof of Concept)** option. The changes include:
-
-- A clear note after the screenshot section stating that a video demonstration is available upon request.
-- An explicit mention that the video contains no credentials or private infrastructure details.
-- An additional bullet in the Purchase & Contact section indicating that a video PoC can be provided to serious buyers.
-
-All existing content, badges, architecture diagrams, and security notices remain unchanged.
-
----
-
 ```markdown
 # Advanced C2 Framework
 
